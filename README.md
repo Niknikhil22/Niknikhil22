@@ -40,7 +40,7 @@
 ## 🚀 My Skills
 
 ### 🖥️ Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,c,java)](https://skillicons.dev)
 
 ### 🏗️ Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,django,redux)](https://skillicons.dev)
@@ -52,6 +52,6 @@
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,aws)](https://skillicons.dev)
 
 ### 🛠️ Tools, Platforms & Technologies
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,raspberrypi,anaconda,vscode,visualstudio,pycharm,wasm,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,raspberrypi,anaconda,vscode,visualstudio,pycharm)](https://skillicons.dev)
 
 ---
