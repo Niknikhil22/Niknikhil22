@@ -8,11 +8,11 @@ Hi, I'm **Nikhil Sawhney**, a final-year BCA undergraduate at **Manipal Universi
 - 📩 **Spam Detection System Using NLP**  
 
 ## 🎯 Areas of Interest  
-- Machine Learning & Data Optimization  
-- Human-AI Interaction & Autonomous Agents  
+- Machine Learning & Data Optimization   
 - Generative AI (GenAI)  
-- Multi-Agent Systems  
-- Applied AI & Model Interpretability  
+- Power Bi and Excel
+- Microsoft SQL and Sql-yog  
+- Applied AI  
 
 ---
 
