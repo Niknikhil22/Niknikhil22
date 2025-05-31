@@ -32,7 +32,7 @@
 
 ## 📬 Reach Me At  
 - 📧 **Email**: niknikhil22dec@gmail.com  
-- 💼 **LinkedIn**: [Nikhil Sawhney](www.linkedin.com/in/nikhil-sawhney-3661661a7)  
+- 💼 **LinkedIn**: [Nikhil Sawhney](https://www.linkedin.com/in/nikhil-sawhney-3661661a7)  
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/1tBpljVY60nBDlJIaRSqsemSnZCTziArn/view?usp=drive_link)  
 
 ---
