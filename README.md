@@ -52,4 +52,4 @@ Hi, I'm **Nikhil Sawhney**, a final-year BCA undergraduate at **Manipal Universi
 
 - 📧 **Email**: [niknikhil22dec@gmail.com](mailto:niknikhil22dec@gmail.com)  
 - 💼 **LinkedIn**: [Nikhil Sawhney](https://www.linkedin.com/in/nikhil-sawhney-3661661a7)  
-- 📄 **Resume**: [View Resume]([https://drive.google.com/file/d/1my1AMg7RxXed56wtMcMiXgSX7aSpgWdQ/view?usp=sharing]))
+- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1my1AMg7RxXed56wtMcMiXgSX7aSpgWdQ/view?usp=sharing)
