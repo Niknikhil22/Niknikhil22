@@ -1,3 +1,5 @@
+<img src="bugcat-loading.gif" style="width:100%;" />
+
 # ̷N̷̷i̷̷k̷̷h̷̷i̷̷l̷ ̷S̷a̷̷w̷̷h̷̷n̷̷e̷̷y̷
 
 # 🙋‍♂️ About Me  
