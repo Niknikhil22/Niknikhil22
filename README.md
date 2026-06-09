@@ -4,12 +4,14 @@
 
 # 🙋‍♂️ About Me  
 
-Hi, I'm **Nikhil Sawhney**, a final-year BCA undergraduate at **Manipal University Online**, deeply passionate about **Data Analytics**, **Artificial Intelligence**, and **Machine Learning**. I thrive on solving real-world problems through data-driven solutions and AI innovation.
+I'm a Data Analyst with hands-on experience building Power BI dashboards, writing advanced SQL queries, and developing machine learning models to solve real-world business problems.
+Currently working at Soni Silver Art Jewellery Pvt Ltd as a Data Management Executive, where I build KPI dashboards and drive operational decisions through data. Previously worked at Aditya Birla Finance Limited, handling MIS reporting and compliance analytics.
+I hold certifications from IBM, Google, and Microsoft in Data Science, Analytics, and Power BI.
 
-## 🔭 Current Projects  
-- 🔡 **AI-Powered Virtual Keyboard**  
-- 🤖 **Machine Learning Prediction Models**  
-- 📩 **Spam Detection System Using NLP**  
+## 🔭 What I'm Working On  
+- 🔡 **Real-time Power BI dashboards for business KPI tracking**  
+- 🤖 **ML prediction models — car price, drug analysis, house pricing**  
+- 📩 **Spam Detection System using NLP**  
 
 ## 🎯 Areas of Interest  
 - Machine Learning & Data Optimization   
@@ -56,4 +58,4 @@ Hi, I'm **Nikhil Sawhney**, a final-year BCA undergraduate at **Manipal Universi
 
 - 📧 **Email**: [niknikhil22dec@gmail.com](mailto:niknikhil22dec@gmail.com)  
 - 💼 **LinkedIn**: [Nikhil Sawhney](https://www.linkedin.com/in/nikhil-sawhney-3661661a7)  
-- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1my1AMg7RxXed56wtMcMiXgSX7aSpgWdQ/view?usp=sharing)
+- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1rtgVaz5QCmHXPoeGtbXqRKZPNbmc3EXm/view?usp=sharing)
